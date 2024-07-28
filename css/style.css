@@ -9132,6 +9132,7 @@ a {
   margin-bottom: 10px; }
 
 .sec-1 .heading {
+  color: #b77094;
   margin-bottom: 70px;
   font-weight: bold;
   position: relative;
@@ -9167,6 +9168,7 @@ a {
       padding: 2rem 0; } }
 
 .sec-2 .heading {
+  color: #b77094;
   margin-bottom: 60px;
   position: relative;
   text-transform: uppercase;
@@ -9188,6 +9190,7 @@ a {
     bottom: 0; }
 
 .sec-3 .heading {
+  color: #b77094;
   margin-bottom: 60px;
   position: relative;
   text-transform: uppercase;
@@ -9210,7 +9213,7 @@ a {
 
 .accordion-1 .accordion-item button {
   background-color: transparent !important;
-  color: #000;
+  color: #b77094;
   outline: none;
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -9230,7 +9233,7 @@ a {
     border-color: rgba(0, 0, 0, 0.1);
     -webkit-box-shadow: none;
     box-shadow: none;
-    color: #000; }
+    color: #b77094; }
 
 .accordion-1 .accordion-collapse {
   border-top: none; }
@@ -9277,6 +9280,7 @@ a {
         background: #64B185; }
 
 .sec-4 .heading, .sec-5 .heading, .sec-news .heading {
+  color: #b77094;
   margin-bottom: 70px;
   font-weight: bold;
   position: relative;
