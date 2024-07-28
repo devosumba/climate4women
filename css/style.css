@@ -9785,7 +9785,7 @@ a {
   .site-footer a {
     color: #000; }
     .site-footer a:hover {
-      color: #64B185; }
+      color: #b77094; }
   .site-footer .widget {
     margin-bottom: 30px; }
     .site-footer .widget h3, .site-footer .widget .h3 {
@@ -9814,7 +9814,7 @@ a {
           -ms-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%); }
         .site-footer .widget .social li a:hover {
-          background-color: #64B185;
+          background-color: #b77094;
           color: #fff; }
     .site-footer .widget .links li {
       display: block;
@@ -9822,7 +9822,7 @@ a {
       .site-footer .widget .links li a {
         color: #000; }
         .site-footer .widget .links li a:hover {
-          color: #64B185; }
+          color: #b77094; }
   .site-footer .copyright {
     position: relative;
     padding-top: 40px;
