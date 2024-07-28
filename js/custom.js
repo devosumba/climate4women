@@ -150,3 +150,11 @@
 	});
 
 })()
+ // JavaScript function to open PDF in a new tab
+ function openPDF() {
+	// URL of the PDF file
+	var pdfUrl = 'link/to/pdf';
+
+	// Open the PDF in a new tab
+	window.open(pdfUrl, '_blank');
+}
