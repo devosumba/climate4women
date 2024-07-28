@@ -9791,7 +9791,10 @@ a {
     .site-footer .widget h3, .site-footer .widget .h3 {
       font-size: 16px;
       font-weight: 700;
-      margin-bottom: 30px; }
+      margin-bottom: 30px; 
+      color: #b77094;
+    
+    }
     .site-footer .widget .social li {
       display: inline-block; }
       .site-footer .widget .social li a {
