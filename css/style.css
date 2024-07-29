@@ -3644,6 +3644,9 @@ textarea.form-control-lg {
   .navbar-dark .navbar-text a:focus {
     color: #fff; }
 
+.nav-icon:hover{
+color:#b77094 ;
+}
 .card {
   position: relative;
   display: -webkit-box;
@@ -9111,7 +9114,7 @@ a {
   width: 80px;
   height: 80px;
   border-radius: 50%;
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.5);
   position: relative; }
   .play-vid .play span {
     position: absolute;
@@ -9123,7 +9126,7 @@ a {
     color: #fff;
     font-size: 18px; }
   .play-vid .play:hover {
-    border: 1px solid rgba(255, 255, 255, 0.7); }
+    border: 1px solid rgba(255, 255, 255, 0.9); }
 
 .line {
   width: 50px;
@@ -9795,17 +9798,20 @@ a {
       color: #b77094;
     
     }
-    .site-footer .widget .social li {
+    .site-footer .widget .social li,
+    .site-menu .social li {
       display: inline-block; }
-      .site-footer .widget .social li a {
+      .site-footer .widget .social li a,
+      .site-menu .social li a {
         width: 50px;
         height: 50px;
         border-radius: 50%;
-        background: #f8f9fa;
+        /* background: #f8f9fa; */
         display: inline-block;
         position: relative;
         color: black; }
-        .site-footer .widget .social li a span {
+        .site-footer .widget .social li a span,
+        .site-menu .social li a span {
           font-size: 20px;
           position: absolute;
           top: 50%;
@@ -9813,7 +9819,8 @@ a {
           -webkit-transform: translate(-50%, -50%);
           -ms-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%); }
-        .site-footer .widget .social li a:hover {
+        .site-footer .widget .social li a:hover,
+        .site-menu .social li a:hover {
           background-color: #b77094;
           color: #fff; }
     .site-footer .widget .links li {
