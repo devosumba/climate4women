@@ -9191,6 +9191,14 @@ a {
     left: 0;
     bottom: 0; }
 
+    /* For large devices and above (>=992px, similar to Bootstrap's lg) */
+@media (min-width: 1200px) {
+  .custom-img-height {
+      height: 450px; /* Adjust height as needed */
+  }
+}
+
+
 .sec-3 .heading {
   color: #b77094;
   margin-bottom: 60px;
